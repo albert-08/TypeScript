@@ -62,5 +62,5 @@ try {
   result = handleError(404, 'error'); // never
   console.log('result', result);
 } catch (error) {
-  console.log(error);
+  
 }
